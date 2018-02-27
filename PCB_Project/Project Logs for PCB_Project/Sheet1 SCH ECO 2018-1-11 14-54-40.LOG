@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C15 Old Footprint=CAPR5-4X5 New Footprint=0603C
+Change Component Comment: Designator=C14 Old Comment=104 New Comment=103
+Change Component Comment: Designator=C19 Old Comment=104 New Comment=106
+Change Component Comment: Designator=C15 Old Comment=Cap2 New Comment=106

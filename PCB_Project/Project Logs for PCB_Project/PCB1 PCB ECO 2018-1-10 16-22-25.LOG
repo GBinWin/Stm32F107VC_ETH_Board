@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=OSC32 OUT Pin=R9-1
+Removed Pin From Net: NetName=OSC32 IN Pin=R9-2
+Removed Pin From Net: NetName=OSC OUT Pin=R11-1
+Removed Pin From Net: NetName=OSC IN Pin=R11-2
+Removed Member From Class: ClassName=Sheet1 Member=R9
+Removed Member From Class: ClassName=Sheet1 Member=R11

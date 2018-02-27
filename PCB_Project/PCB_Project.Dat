@@ -1,0 +1,48 @@
+Field=Comment~String~Comment~125|Field=Description~String~Description~125|Field=Designator~String~Designator~363|Field=Footprint~String~Footprint~46|Field=LibRef~String~LibRef~46|Field=Quantity~Integer~Quantity~45|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project.PrjPcb|ReportField=ProjectFullPath~E:\PCB样\F107\PCB_Project\PCB_Project.PrjPcb|ReportField=Title~Bill of Materials For Project [PCB_Project.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~97|ReportField=ReportTime~10:01:04|ReportField=ReportDate~2018/1/24|ReportField=ReportDateTime~2018/1/24 10:01:04|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2018/1/24|ReportField=CurrentTime~10:00:56|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\PCB样\F107\PCB_Project\Sheet1.SchDoc|ReportField=DocumentName~Sheet1.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2018/1/17|ReportField=Organization~|ReportField=ProjectName~PCB_Project.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PCB_Project.PrjPcb|ReportField=DataSourceFullPath~E:\PCB样\F107\PCB_Project\PCB_Project.PrjPcb
+104||C1, C2, C8, C9, C12, C13, C16, C17, C18, C20, C21, C22, C23, C24, C25, C26, C27, C28, C29, C32|0603C|C|20
+6pF||C3, C5|0603C|C|2
+20pF||C4, C6|0603C|C|2
+103p||C7|0603C|C|1
+2.2uF||C10|0603C|C|1
+10uF|Capacitor|C11|1206C|Cap2|1
+103||C14|0603C|C|1
+106|Capacitor|C15|1206C|Cap2|1
+106||C19|0603C|C|1
+22||C30, C31|0603C|C|2
+Cap2|Capacitor|C50|1206C|Cap2|1
+J0011D21B||CN1|RJ45-12|J0011D21B|1
+1N4148||D1|DIODE_SOP|D|1
+LED||DS1, DS2, DS3|SMDLED-0603|LED|3
+BUTTON||K1|BTN8.5*8.5|BUTTON|1
+KEY_M||KEY0, KEY1, KEY2|KEY_SOP3625|KEY_M|3
+TFT|Header, 16-Pin, Dual row|P1|HDR2X16|Header 16X2|1
+Header 3|Header, 3-Pin|P2|HDR1X3|Header 3|1
+SW|Header, 4-Pin|P3|HDR1X4|Header 4|1
+Header 6|Header, 6-Pin|P4|HDR1X6|Header 6|1
+PNP S8550|8550/BCW68|Q1|SOT-23R|PNP|1
+S8050|8050/BCW846/BCW847|Q2|SOT-23R|NPN|1
+49R9||R1, R2, R3, R4|0603R|R|4
+10K||R5, R6, R19, R21, R26, R27, R33|0603R|R|7
+110R||R7, R8|0603R|R|2
+2K2||R10, R12, R13, R14, R15, R16, R17, R18|0603R|R|8
+4.87k||R20|0603R|R|1
+330||R22|0603R|R|1
+22R||R23, R24|0603R|R|2
+1K||R25, R28, R29, R31, R34|0603R|R|5
+4.7K||R30, R32|0603R|R|2
+120R||R35, R121|0603R|R|2
+0R||R36|0603R|R|1
+STM32F107VCT6|STM32 ARM-based 32-bit MCU with 64 Kbytes Flash, 100-pin LQFP, Industrial Temperature|U1|LQFP100_N|STM32F103VBT6|1
+DP83848CVV||U2|LQFP48|DP83848CVV|1
+AMS1117-3.3||U3|AMS1117|AMS1117|1
+CH340G|USB2UART|U4|SOP16M|CH340G|1
+24C02|EEPROM|U5|SOP-8|24C256|1
+SP3485||U6|SOP-8|MAX3485|1
+TJA1050||U7|SOP-8|SN65HVD230D|1
+W25Q256|W25Q128|U8|LC-SOP-8_208mil|W25Q128|1
+USB-A-90|USB-A-90|U10|USB_2|USB_A_90|1
+USB-B(Mini)||U11|USB_AB|USB5|1
+32.768KHz|普通晶振|Y1|XTAL3215|XTAL|1
+25MHz|Crystal Oscillator|Y2|XTAL_US|XTAL|1
+50Mhz|3225贴片无源晶振|Y3|XTAL3225|XTAL_3225|1
+12MHz|Crystal Oscillator|Y4|XTAL_US|XTAL|1

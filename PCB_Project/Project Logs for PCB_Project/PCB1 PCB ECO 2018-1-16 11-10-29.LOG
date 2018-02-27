@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=3V3 Pin=R22-1
+Added Pin To Net: NetName=3V3 Pin=R31-1
+Added Pin To Net: NetName=3V3 Pin=R34-1
+Added Member To Class: ClassName=Sheet1 Member=Component C30 22
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 3
+Added Member To Class: ClassName=Sheet1 Member=Component U7 TJA1050
